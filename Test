@@ -490,3 +490,5 @@ function NexusLib:AddSection(title)
     
     return setmetatable(section, section)
 end
+
+return NexusUI
